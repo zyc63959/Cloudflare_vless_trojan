@@ -2,7 +2,7 @@ name = "cvt" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "./Trojan_workers_pages/_worker.js"
+main = "Trojan_workers_pages/_worker.js"
 compatibility_date = "2024-10-19"
 [[routes]]
 pattern = "new1.test.cforme.cloudns.ch"

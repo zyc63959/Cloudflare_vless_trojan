@@ -2,7 +2,7 @@
   "name": "cvt",
   "version": "1.0.0",
   "description": "Cloudflare_vless_trojan",
-  "main": "./Trojan_workers_pages/_worker.js",
+  "main": "Trojan_workers_pages/_worker.js",
   "scripts": {
     "deploy": "wrangler deploy",
     "build": "wrangler deploy --dry-run",
