@@ -1,0 +1,17 @@
+{
+    "name": "cvt",
+    "version": "1.0.0",
+    "description": "Cloudflare_vless_trojan",
+    "main": "Trojan_workers_pages/_worker.js",
+    "scripts": {
+      "deploy": "wrangler deploy",
+      "build": "wrangler deploy --dry-run",
+      "dev": "wrangler dev --remote"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@cloudflare/workers-types": "^4.20230710.1",
+      "wrangler": "^3.2.0"
+    }
+  }
