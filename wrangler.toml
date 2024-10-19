@@ -1,0 +1,21 @@
+name = "cvt" # todo
+#name = "cf-worker-connect-test" # todo
+#main = "test/worker/cf-cdn-cgi-trace2.js"
+#main = "test/worker/worker-connect-test.js"
+main = "./Trojan_workers_pages/_worker.js"
+compatibility_date = "2024-10-19"
+[[routes]]
+pattern = "new1.test.cforme.cloudns.ch"
+custom_domain = true
+[[routes]]
+pattern = "new2.test.cforme.cloudns.ch"
+custom_domain = true
+
+[vars]
+# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# NODE_ID = "1"
+# API_TOKEN = "example_dev_token"
+# API_HOST = "api.v2board.com"
+UUID = "2754f9e5-70ac-453b-8026-56d529c4c2e3,062adc51-7b7e-48b4-922f-824ac337c610,4f8a2705-4fda-4738-9c1b-e40e1fbd1536,fe1f97c2-9b5c-4c52-966f-fc20afee61ba"
