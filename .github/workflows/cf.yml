@@ -11,10 +11,11 @@ on:
       environment:
         description: 'wrangler env to deploy to'
         required: true
-        default: 'dev'
+        default: 'main'
         type: choice
         options:
         - dev
+        - main
         - prod
         - one
       commit:
