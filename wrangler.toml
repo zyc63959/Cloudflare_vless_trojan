@@ -1,0 +1,35 @@
+name = "mytest25-6-7"
+main = "./Trojan_workers_pages/_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+# workers_dev = true
+
+routes = [
+  { pattern = "a.taskerm.dpdns.org", custom_domain = true },
+  { pattern = "b.taskerm.dpdns.org", custom_domain = true },
+  { pattern = "c.taskerm.dpdns.org", custom_domain = true }
+]
+
+[env.production]
+[[env.production.routes]]
+pattern = "prod.taskerm.dpdns.org"
+custom_domain = true  
+
+[env.staging]
+[[env.staging.routes]]
+pattern = "staging.taskerm.dpdns.org"
+custom_domain = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "d12aa401-b8ae-4709-b3ed-2248500bd191,9bb11bbb-be88-4732-a136-50c24a5c7d6a,cb7081d5-6a12-4ab9-b8ae-6f561a2ee85d,49d0a24e-62dd-40b3-a5a8-93217e173fb0"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
+pswd = "mytest"
+
+
+
+
+
+
+
