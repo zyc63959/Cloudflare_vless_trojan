@@ -1,5 +1,5 @@
 name = "mytest25-6-7"
-main = "./Vless_workers_pages/_worker.js"
+main = "./Trojan_workers_pages/_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 # workers_dev = true
