@@ -25,7 +25,7 @@ custom_domain = true
 UUID = "d12aa401-b8ae-4709-b3ed-2248500bd191,9bb11bbb-be88-4732-a136-50c24a5c7d6a,cb7081d5-6a12-4ab9-b8ae-6f561a2ee85d,49d0a24e-62dd-40b3-a5a8-93217e173fb0"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
-pswd = "mytest".
+pswd = "mytest"
 
 
 
