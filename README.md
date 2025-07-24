@@ -19,9 +19,9 @@
 
 ### 推荐新手用户请先看以下两个入门视频教程：
 
-[CF vless/trojan免费节点混淆时代来临：workers/pages代码混淆后详细设置的更新说明；1101报错总结；福利计划：甬哥自建多个ProxyIP让大家使用](https://youtu.be/QSFaP5EVI04)
-
 [永久免费的cf vless workers原生域名节点 | 无需自定义域名 | 无需优选IP订阅 | 无需面版控制台 | 只需保存两个参数 | 自建无限不死节点！](https://youtu.be/PpPKzOYLZQg)
+
+[永久免费的cf vless pages原生域名节点 | NAT64生成ProxyIP的重要说明 | CF节点为何有些网站上不了？](https://youtu.be/yR-JpVV6SHs)
 
 ---------------------------------------------
 
